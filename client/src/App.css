@@ -1,0 +1,181 @@
+.section2{
+  width: 100%;
+  height: 89vh;
+  min-height: 620px;
+  background-color: rgba(118,109,244,.1);
+
+  padding: 198px 0 140px 0;
+  /* overflow-x: clip; */
+}
+.sec-diva{
+  width: 100%;
+}
+.sec-diva h6{
+  font-size: 18px;
+}
+.sec-diva h1{
+  font-size: 48px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.sec-diva h1 span{
+  color: #0D6EFD;
+  font-size: 50PX;
+}
+
+.signup-div{
+  width: 85%;
+  min-height: 70vh;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  padding: 15px 25px;
+  margin: 0 auto;
+}
+
+
+@media screen and (min-width: 786px) {
+  .image-slider {
+    margin-top: -140px;
+    margin-right: -35px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .profile-pic {
+  border: 5px solid #fff;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+.text-muted {
+  font-size: 0.8rem;
+}
+
+.h3 {
+  font-weight: bold;
+}
+
+.p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+} */
+
+.profile-pic {
+  border: 5px solid #fff;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+  width: 70%;
+  margin-left: 15%;
+  margin-top: 25px;
+}
+
+.card {
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 15px;
+}
+
+.card-image-container {
+  height: 330px;
+  overflow: hidden;
+  position: relative;
+}
+
+.card-image-container::before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), #000);
+  z-index: 1;
+}
+
+.mb-233{
+  padding-bottom: 6px;
+}
+
+/* .card-image-container img {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  z-index: 2;
+} */
+
+/* .text-muted {
+  font-size: 0.8rem;
+} */
+
+.h3 {
+  font-weight: bold;
+}
+
+.p {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+
+
+.text-muted {
+  font-size: 0.8rem;
+  color: #a9a9a9;
+}
+
+.qualifications-container {
+  border-radius: 15px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  background-color: #fff;
+  padding: 20px;
+  margin-top: 30px;
+}
+
+.qualification-item {
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 20px;
+}
+.end-item-q{
+  padding-bottom: 5px!important;
+  border-bottom: none!important;
+  margin-bottom: 7px;
+  min-height: 216px;
+}
+.qualification-item h5 {
+  margin-bottom: 5px;
+  font-weight: bold;
+}
+
+@media screen and (max-width: 768px) {
+  .card-image-container {
+    height: 150px;
+  }
+}
