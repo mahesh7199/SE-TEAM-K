@@ -3,9 +3,12 @@
 
 Mahesh Tanneru - Scrum Master
 
+* I have conducted the scrum meetings and gave updates and collected the status from team.
+*I have created the database and managed the database.
+
 Home page:
-     * Home page - buttons,list of jobs, Footer where links are accessable
-	  * contact us(report)
+     * Home page - buttons,list of jobs, Navigating links in footer.
+	 * contact us(report)
 	 
 Recruiter:
      * chat with job seeker(When we click on chat chat will be initiated)
@@ -14,12 +17,14 @@ Job seeker:
      * Chat with recruiter if recruiter messaged (notification will be displayed, can chat with the recruiter))
 
 Admin: 
-     * contact us (reports will be displayed)
+     
+	 * contact us (reports will be displayed)
 	 
+* Chat Notification feature is also completed and it is working fine.	 
 * I have worked on bug fixes on the back end and now we are able to run the website properly.
 *I have deployed the website into aws and the below is the EC2 link
    (http://35.154.42.55/)
-* I have helped every individual in task completion and worked as a team. 
+* I have helped every individual in task completion and worked as a team.
 
 
 
