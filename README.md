@@ -1,5 +1,13 @@
 # SE-TEAM-K
 
+GIT Link - https://github.com/mahesh7199/SE-TEAM-K
+ Deployed link - http://35.154.42.55/
+ TEST Credentials - 
+   jobseeker - username - maheshtanneru2@gmail.com 
+               password - Nani@7199
+   Recruiter - username - mahesh@gmail.com
+               password - 1234567891
+
 
 Mahesh Tanneru - Scrum Master
 
@@ -19,8 +27,11 @@ Job seeker:
 Admin: 
      
 	 * contact us (reports will be displayed)
+
+
+After sprint 3
 	 
-* Chat Notification feature is also completed and it is working fine.	 
+* Chat Notification feature is also completed and it is working fine which is done after sprint 3.	 
 * I have worked on bug fixes on the back end and now we are able to run the website properly.
 *I have deployed the website into aws and the below is the EC2 link
    (http://35.154.42.55/)
